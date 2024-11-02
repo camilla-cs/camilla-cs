@@ -6,7 +6,7 @@
 
 - 😄 Pronouns : she/her
 - 📚 Student at Coder Academy
-- 👩🏻‍🎓 Graduated in Japanese in 2022 at Università Ca' Foscari di Venezia, Italy.
+- 👩🏻‍🎓 Graduated in Japanese 🇯🇵 in 2022 at Università Ca' Foscari di Venezia, Italy.
 
 ### Languages 🌾: 
 - **Front-end:** <img alt="HTML5" src="https://img.shields.io/badge/HTML5-181717?logo=html5&logoColor=white&labelColor=E34F26" /> <img alt="CSS3" src="https://img.shields.io/badge/CSS3-181717?logo=css3&logoColor=white&labelColor=1572B6" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E" /> <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
