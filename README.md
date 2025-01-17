@@ -1,6 +1,7 @@
 # Hi 👋 I'm Camilla 
 
-### CS student at Coder Academy
+### Junior Software Developer
+#### Student @ Coder Academy 2024 cohort
 
 ### About me 🌱: 
 
