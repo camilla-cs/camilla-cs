@@ -1,12 +1,11 @@
 # Hi 👋 I'm Camilla 
 
 ### Junior Software Developer
-#### Student @ Coder Academy 2024 cohort
 
 ### About me 🌱: 
 
 - 😄 Pronouns : she/her
-- 📚 Student at Coder Academy
+- 📚 Student at Coder Academy 2024 cohort
 - 👩🏻‍🎓 Graduated in Japanese 🇯🇵 in 2022 at [Università Ca' Foscari di Venezia](https://www.unive.it/pag/13526), Italy.
 
 ### Languages 🌾: 
