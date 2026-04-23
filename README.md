@@ -1,10 +1,11 @@
 # Hi 👋 I'm Camilla 
 
-### Junior Software Developer
+### IT Support @ FIN DESIGN | Melbourne
 
 ### About me 🌱: 
 
 - 😄 Pronouns : she/her
+-  IT Support @ [Fin Design](https://www.findesign.com.au/)
 - 📚 Student at Coder Academy 2024 cohort
 - 👩🏻‍🎓 Graduated in Japanese 🇯🇵 in 2022 at [Università Ca' Foscari di Venezia](https://www.unive.it/pag/13526), Italy.
 
