@@ -20,7 +20,7 @@
 - Email: deprettocamilla@gmail.com
 
 <a
-  href="www.linkedin.com/in/camilla-de-pretto-815979234"
+  href="www.linkedin.com/in/camilla-de-pretto"
   target= "_blank">
   <img 
     alt="LinkedIn"
