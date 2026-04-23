@@ -1,7 +1,5 @@
 # Hi 👋 I'm Camilla 
 
-### IT Support @ FIN DESIGN | Melbourne
-
 ### About me 🌱: 
 
 - 😄 Pronouns : she/her
