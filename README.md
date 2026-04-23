@@ -20,7 +20,7 @@
 - Email: deprettocamilla@gmail.com
 
 <a
-  href="www.linkedin.com/in/camilla-de-pretto"
+  href="[www.linkedin.com/in/camilla-de-pretto](https://www.linkedin.com/in/camilla-de-pretto/)"
   target= "_blank">
   <img 
     alt="LinkedIn"
@@ -29,7 +29,7 @@
   </a>
 
   ### Interests 🌿: 
-  - 🧗🏻‍♀️ Bouldering/ Rock Climbing
+  - 🧗🏻‍♀️ Bouldering
   - 🎨 Digital art
   - 🎐 Manga / Anime
   - 🍵 Matcha 
