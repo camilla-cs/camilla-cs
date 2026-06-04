@@ -14,8 +14,6 @@
 - **Version Control:** <img alt="GitHub" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 - **Testing:** <img alt="Jest" src="https://img.shields.io/badge/Jest-181717?logo=jest&logoColor=white&labelColor=C21325" /> <img alt="Pytest" src="https://img.shields.io/badge/Pytest-181717?logo=pytest&logoColor=white&labelColor=0A9EDC" />
 
-### Contact 📮: 
-- Email: camilla.depretto@findesign.com.au
 
 <a
   href="https://www.linkedin.com/in/camilla-de-pretto"
